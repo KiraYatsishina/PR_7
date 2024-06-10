@@ -1,0 +1,11 @@
+
+¹
+java:S1319–"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‰ä™ûÿÿÿÿ8õ»ìÇş1J$be71d265-771f-4f43-bccb-756ddb60ac92
+¡
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(…×ÊÌúÿÿÿÿ8ö»ìÇş1J$9c919e41-6aff-46ef-a94e-39026069cc37
+“
+java:S1149l"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ãá£ò8ù»ìÇş1J$5ee71833-b14a-4186-928b-b88ed4b807fd
+•	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åˆœ“úÿÿÿÿ8ÿ»ìÇş1J$fecae1b8-094f-453a-9d41-2297b65a8748
+	java:S100h"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Ìùˆ8¼ìÇş1J$d5d53c6a-45fc-4149-a4ce-8a2ce861ad74
+t
+java:S1068",Remove this unused "INFINITY" private field.(´•½ïüÿÿÿÿ8¾¯óÌş1J$94e681e2-f06c-4624-99d9-ba8d5ee5140b

@@ -1,0 +1,16 @@
+
+“
+java:S1104A"PMake dist a static final constant or non-public and provide accessors if needed.(£„¢ƒ8îŒğÌş1J$a8fa7fff-02ab-485d-a8ac-bc5b821d6c77
+“
+java:S1104B"PMake prev a static final constant or non-public and provide accessors if needed.(²µíÖ8îŒğÌş1J$51161fbb-736a-44db-930a-d006d909cd6d
+•
+java:S1104K"RMake vertex a static final constant or non-public and provide accessors if needed.(¿ØÍŒ8îŒğÌş1J$d36279ed-312f-4819-b7bf-147c1a56490e
+œ
+java:S1104L"TMake distance a static final constant or non-public and provide accessors if needed.(»‡¼´ÿÿÿÿÿ8îŒğÌş1J$0c6f88f3-fea1-4cbc-9af6-c17b517a04d6
+t
+java:S1172,",Remove this unused method parameter "graph".(ì€Ùşÿÿÿÿ8ª“ùÌş1J$ba357312-d707-4d67-9aa0-0a4390ca46e6
+r	java:S106/"+Replace this use of System.out by a logger.(úÙÛÈÿÿÿÿÿ8œÍ‡Íş1J$313c2631-3246-4996-9c8a-bf5a3c0c863a
+r	java:S1061"+Replace this use of System.out by a logger.(—ó·’ùÿÿÿÿ8œ¥šÍş1J$fdbed9dc-74b4-4da5-b0d8-c2d1d5bb827b
+r	java:S1063"+Replace this use of System.out by a logger.(ÔÑşŒùÿÿÿÿ8œ¥šÍş1J$67db8d4d-fb07-44f5-bfc0-c9bc8d324949
+r	java:S106;"+Replace this use of System.out by a logger.(µ™áİıÿÿÿÿ8œ¥šÍş1J$87c48443-07da-48fd-b310-d3e9dfb81dfc
+r	java:S106="+Replace this use of System.out by a logger.(âÒò¦ùÿÿÿÿ8œ¥šÍş1J$4da40a77-cdf0-41bb-b636-01fc21679b06
